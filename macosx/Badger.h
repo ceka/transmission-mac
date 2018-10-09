@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: Badger.h 13162 2012-01-14 17:12:04Z livings124 $
  *
  * Copyright (c) 2006-2012 Transmission authors and contributors
  *
@@ -23,7 +23,7 @@
  *****************************************************************************/
 
 #import <Cocoa/Cocoa.h>
-#import <transmission.h>
+#import "transmission.h"
 
 @class Torrent;
 

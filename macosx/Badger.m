@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: Badger.m 13571 2012-10-15 02:12:44Z livings124 $
  *
  * Copyright (c) 2006-2012 Transmission authors and contributors
  *

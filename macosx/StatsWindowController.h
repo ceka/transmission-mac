@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: StatsWindowController.h 13318 2012-05-27 22:31:58Z livings124 $
  *
  * Copyright (c) 2007-2012 Transmission authors and contributors
  *
@@ -23,7 +23,7 @@
  *****************************************************************************/
 
 #import <Cocoa/Cocoa.h>
-#import <transmission.h>
+#import "transmission.h"
 
 @interface StatsWindowController : NSWindowController
 {

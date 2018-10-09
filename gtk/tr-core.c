@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: tr-core.c 14718 2016-03-13 22:11:01Z mikedld $
  *
  * Copyright (c) Transmission authors and contributors
  *

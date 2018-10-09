@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: MessageWindowController.m 14662 2016-01-06 11:05:37Z mikedld $
  *
  * Copyright (c) 2006-2012 Transmission authors and contributors
  *
@@ -27,8 +27,8 @@
 #import "NSApplicationAdditions.h"
 #import "NSMutableArrayAdditions.h"
 #import "NSStringAdditions.h"
-#import <log.h>
-#import <transmission.h>
+#import "log.h"
+#import "transmission.h"
 
 #define LEVEL_ERROR 0
 #define LEVEL_INFO  1

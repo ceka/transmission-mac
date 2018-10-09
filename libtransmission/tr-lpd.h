@@ -26,7 +26,7 @@ THE SOFTWARE.
 
 #pragma once
 
-/* $Id$ */
+/* $Id: tr-lpd.h 14724 2016-03-29 16:37:21Z jordan $ */
 
 int  tr_lpdInit (tr_session*, tr_address*);
 void tr_lpdUninit (tr_session*);

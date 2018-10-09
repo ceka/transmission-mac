@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: InfoWindowController.h 14685 2016-02-27 20:29:57Z mikedld $
  *
  * Copyright (c) 2006-2012 Transmission authors and contributors
  *

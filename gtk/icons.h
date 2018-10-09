@@ -3,7 +3,7 @@
  * "There is no problem for me, you can license
  * my code under whatever licence you wish :)"
  *
- * $Id$
+ * $Id: icons.h 14724 2016-03-29 16:37:21Z jordan $
  */
 
 #pragma once

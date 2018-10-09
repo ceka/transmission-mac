@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: main.m 14718 2016-03-13 22:11:01Z mikedld $
  *
  * Copyright (c) 2005-2012 Transmission authors and contributors
  *

@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: trevent.c 14648 2015-12-31 14:17:37Z mikedld $
  */
 
 #include <assert.h>

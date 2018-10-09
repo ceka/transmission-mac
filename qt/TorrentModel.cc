@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: TorrentModel.cc 14736 2016-04-24 07:56:41Z mikedld $
  */
 
 #include <iostream>

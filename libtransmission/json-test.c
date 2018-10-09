@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: json-test.c 14721 2016-03-29 03:04:54Z jordan $
  */
 
 #include <string.h> /* strlen () */

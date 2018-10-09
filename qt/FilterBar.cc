@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: FilterBar.cc 14720 2016-03-15 21:25:46Z mikedld $
  */
 
 #include <QHBoxLayout>

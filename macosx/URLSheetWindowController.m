@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: URLSheetWindowController.m 13254 2012-03-13 03:39:56Z livings124 $
  *
  * Copyright (c) 2011-2012 Transmission authors and contributors
  *

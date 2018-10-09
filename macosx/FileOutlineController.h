@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: FileOutlineController.h 13986 2013-02-08 13:02:16Z livings124 $
  *
  * Copyright (c) 2008-2012 Transmission authors and contributors
  *

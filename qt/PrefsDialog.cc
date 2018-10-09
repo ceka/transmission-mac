@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: PrefsDialog.cc 14607 2015-12-06 17:27:21Z jordan $
  */
 
 #ifdef _WIN32

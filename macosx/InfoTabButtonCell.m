@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: InfoTabButtonCell.m 14631 2015-12-22 00:45:09Z mikedld $
  *
  * Copyright (c) 2007-2012 Transmission authors and contributors
  *

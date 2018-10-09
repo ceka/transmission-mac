@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: GlobalOptionsPopoverViewController.m 14635 2015-12-27 01:48:27Z mikedld $
  *
  * Copyright (c) 2011-2012 Transmission authors and contributors
  *

@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: TorrentTableView.h 14705 2016-03-03 17:57:08Z mikedld $
  *
  * Copyright (c) 2005-2012 Transmission authors and contributors
  *
@@ -23,7 +23,7 @@
  *****************************************************************************/
 
 #import <Cocoa/Cocoa.h>
-#import <transmission.h>
+#import "transmission.h"
 
 @class Controller;
 @class Torrent;

@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: session.c 14718 2016-03-13 22:11:01Z mikedld $
  */
 
 #include <assert.h>
@@ -65,7 +65,7 @@ enum
   DEFAULT_CACHE_SIZE_MB = 2,
   DEFAULT_PREFETCH_ENABLED = false,
 #else
-  DEFAULT_CACHE_SIZE_MB = 4,
+  DEFAULT_CACHE_SIZE_MB = 512,
   DEFAULT_PREFETCH_ENABLED = true,
 #endif
   SAVE_INTERVAL_SECS = 360

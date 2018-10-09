@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: Session.h 14732 2016-04-19 20:41:59Z mikedld $
  */
 
 #pragma once

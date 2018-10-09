@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: TorrentCell.m 14665 2016-01-07 17:21:12Z mikedld $
  *
  * Copyright (c) 2006-2012 Transmission authors and contributors
  *

@@ -3342,6 +3342,7 @@
 		0053D3D50C86774200545606 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				FRAMEWORK_SEARCH_PATHS = macosx;
 				GCC_PREFIX_HEADER = macosx/Transmission_Prefix.pch;
 				LIBRARY_SEARCH_PATHS = (
@@ -3349,6 +3350,7 @@
 					"\"$(SRCROOT)/third-party/curl/lib\"",
 				);
 				PRODUCT_NAME = Transmission;
+				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = NO;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -3518,6 +3520,7 @@
 		4DF0C599089918A300DD8943 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				FRAMEWORK_SEARCH_PATHS = macosx;
 				GCC_PREFIX_HEADER = macosx/Transmission_Prefix.pch;
 				LIBRARY_SEARCH_PATHS = (
@@ -3525,6 +3528,7 @@
 					"\"$(SRCROOT)/third-party/curl/lib\"",
 				);
 				PRODUCT_NAME = Transmission;
+				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = NO;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -3665,6 +3669,7 @@
 		A250CFEC0CDA19680068B4B6 /* Release - Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				FRAMEWORK_SEARCH_PATHS = macosx;
 				GCC_PREFIX_HEADER = macosx/Transmission_Prefix.pch;
 				LIBRARY_SEARCH_PATHS = (
@@ -3672,6 +3677,7 @@
 					"\"$(SRCROOT)/third-party/curl/lib\"",
 				);
 				PRODUCT_NAME = Transmission;
+				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = NO;
 				WRAPPER_EXTENSION = app;
 			};
 			name = "Release - Debug";

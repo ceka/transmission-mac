@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: BlocklistDownloaderViewController.h 13251 2012-03-13 02:52:11Z livings124 $
  *
  * Copyright (c) 2008-2012 Transmission authors and contributors
  *
@@ -23,7 +23,7 @@
  *****************************************************************************/
 
 #import <Cocoa/Cocoa.h>
-#import <transmission.h>
+#import "transmission.h"
 
 @class PrefsController;
 

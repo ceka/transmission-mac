@@ -4,7 +4,7 @@
  * It may be used under the 3-Clause BSD License, the GNU Public License v2,
  * or v3, or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: transmission.h 14724 2016-03-29 16:37:21Z jordan $
  */
 
 /*

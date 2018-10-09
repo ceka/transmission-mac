@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: platform.c 14718 2016-03-13 22:11:01Z mikedld $
  */
 
 #define _XOPEN_SOURCE 600  /* needed for recursive locks. */

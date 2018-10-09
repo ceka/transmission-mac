@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: crypto-utils.c 14618 2015-12-13 01:29:39Z mikedld $
  */
 
 #include <assert.h>

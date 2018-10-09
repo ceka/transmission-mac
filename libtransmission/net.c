@@ -1,6 +1,6 @@
 /******************************************************************************
  *
- * $Id$
+ * $Id: net.c 14578 2015-10-16 19:49:07Z mikedld $
  *
  * Copyright (c) Transmission authors and contributors
  *

@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: BlocklistScheduler.h 13162 2012-01-14 17:12:04Z livings124 $
  *
  * Copyright (c) 2008-2012 Transmission authors and contributors
  *

@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: torrent-cell-renderer.c 14241 2014-01-21 03:10:30Z jordan $
  */
 
 #include <limits.h> /* INT_MAX */

@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: makemeta.c 14717 2016-03-13 10:41:52Z mikedld $
  */
 
 #include <assert.h>

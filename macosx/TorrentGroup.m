@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: TorrentGroup.m 13434 2012-08-13 00:52:04Z livings124 $
  * 
  * Copyright (c) 2008-2012 Transmission authors and contributors
  *

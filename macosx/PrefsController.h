@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: PrefsController.h 14161 2013-08-10 02:29:12Z livings124 $
  *
  * Copyright (c) 2005-2012 Transmission authors and contributors
  *
@@ -23,7 +23,7 @@
  *****************************************************************************/
 
 #import <Cocoa/Cocoa.h>
-#import <transmission.h>
+#import "transmission.h"
 
 @class PortChecker;
 

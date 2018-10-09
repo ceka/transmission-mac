@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: Controller.h 14662 2016-01-06 11:05:37Z mikedld $
  *
  * Copyright (c) 2005-2012 Transmission authors and contributors
  *
@@ -23,7 +23,7 @@
  *****************************************************************************/
 
 #import <Cocoa/Cocoa.h>
-#import <transmission.h>
+#import "transmission.h"
 #import <Quartz/Quartz.h>
 #import <Growl/Growl.h>
 #import "VDKQueue.h"

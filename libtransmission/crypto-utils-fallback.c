@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: crypto-utils-fallback.c 14370 2014-12-11 05:11:02Z mikedld $
  */
 
 /* This file is designed specifically to be included by other source files to

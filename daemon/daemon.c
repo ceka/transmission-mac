@@ -4,7 +4,7 @@
  * It may be used under the GNU GPL versions 2 or 3
  * or any future license endorsed by Mnemosyne LLC.
  *
- * $Id$
+ * $Id: daemon.c 14733 2016-04-23 16:13:25Z mikedld $
  */
 
 #include <errno.h>
